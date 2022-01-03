@@ -1,6 +1,6 @@
 ## Simple Event App 📆
 
-A very simple app to add events to a realm db.
+A very simple app to add events to a realm db using Android Studio.
 - Data can be added to the db.
 - Data can be deleted from the db.
 
